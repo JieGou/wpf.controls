@@ -3,3 +3,6 @@
 build
 obj
 bin
+/.vs
+/Util.Controls.V2.0/.vs/Util.Controls/v16
+/Util.Controls.V1.0/.vs
